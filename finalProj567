@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<head>
+    <title>Was Jayden Daniels a Game Changer?</title>
+</head>
+<body>
+    <header>
+        <h1>
+            Was Jayden Daniels a Game Changer?
+        </h1>
+        <name style = "font-size: 30px"> 
+            Ava Patel 
+        </name>
+
+    </header>
+
+    <section>
+        <h2>
+            Introduction
+        </h2>
+        <p>
+            The Washington Commanders have been in a rut for quite some time. 
+            That was until Heisman Trophy recipient Jayden Daniels signed to the Washington Commanders.
+            This project explores key stats comparing the Washington Commanders pre and post Jayden Daniels.
+        </p>
+    </section>
+
+    <section>
+        <h2>
+            Washington Commanders Career Passing Leaders
+        </h2>
+        <p> 
+            This visualization is a interactive bar graph. In all of Commanders/Redskins history, 
+            these are the career passing leaders. 
+            Keep in mind that the majority of these players have been with the Commanders for multiple
+            seasons. For Jayden Daniels to be 21st out of the 150+ players I have listed is amazing. 
+            It just shows how insanely good Daniels is. You can use the sliding bar on the right of the graph 
+            to filter players by number of seasons played.
+        </p>
+        <div class='tableauPlaceholder' id='viz1745810198616' style='position: relative'><noscript>
+            <a href='#'>
+                <img alt='Career Passing Leaders ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CareerPassingLeaders&#47;CareerPassingYDS&#47;1_rss.png' style='border: none' />
+            </a>
+            </noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CareerPassingLeaders&#47;CareerPassingYDS' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ca&#47;CareerPassingLeaders&#47;CareerPassingYDS&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1745810198616');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height='1016px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+    </section>
+
+    <section>
+        <h2>
+            Daniels VS Howell: Simple Stats
+        </h2>
+        <p> 
+            Sam Howell was the starting quarterback in the 2023-2024 season where the commanders went 4-13.
+            Jayden Daniels was the starting quarterback in the 2024-2025 season where the commanders went 12-5
+            which is an insane one year turnaround. 
+            Daniels (24) and Howell (23) both played and started in 17 games in their respective seasons.
+            Jayden Daniels attempted a total of 480 passes and completed 331 where Howell attempted a 
+            whopping 612 passes and only completed 388 of them. During the 2024-2025 regular season, 
+            Daniels had a passing success rate of about 47% and gained on average 10.8 yards per pass. 
+            During the 2023-2024  regular season, Daniels had a passing success rate of about 42% and 
+            gained on average 10.2 yards per pass. Sam Howell was sacked 65 times where Daniels was sacked 
+            only 47 times. In both aspects Daniels overall is better when it comes to not throwing interceptions and passing touchdowns. 
+            Howell threw 21 interceptions where Daniels only threw 9. 
+            When it came to passing touchdowns, Daniels threw 25 where Howell threw 21.
+        </p>
+        <div class='tableauPlaceholder' id='viz1745810488212' style='position: relative'><noscript><a href='#'><img alt='Story 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JaydenDanielsVSSamHowell&#47;Story1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='JaydenDanielsVSSamHowell&#47;Story1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ja&#47;JaydenDanielsVSSamHowell&#47;Story1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1745810488212');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+    </section>
+
+    <section>
+        <h2>
+            Wins & Losses 2010-2024
+        </h2>
+        <p> 
+            This visualization compares the wins and losses since 2010. As you can see between the 2023-2024 season and the 2024-2025 season, the wins and losses
+            did a complete 360. 
+        </p>
+        <div class='tableauPlaceholder' id='viz1745816548795' style='position: relative'><noscript><a href='#'><img alt='Wins and Losses By Year 2010-2024 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommandersTeamStats&#47;WinsLosses&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CommandersTeamStats&#47;WinsLosses' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommandersTeamStats&#47;WinsLosses&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1745816548795');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+    </section>
+
+    <section>
+        <h2>
+            Points Scored 2010-2024: Commanders & Opponents
+        </h2>
+        <p> 
+            This visualization demonstrates the number of points scored by the Commanders and allowed by the Commanders. Again as we saw in the graph above, the number of
+            points scored and allowed did a complete flip, which is exactly what we want to see.  
+        </p>
+        <div class='tableauPlaceholder' id='viz1745816487097' style='position: relative'><noscript><a href='#'><img alt='Points Scored and Points Allowed 2010-2024 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommandersTeamStats&#47;PointsScoredAllowed&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CommandersTeamStats&#47;PointsScoredAllowed' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommandersTeamStats&#47;PointsScoredAllowed&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1745816487097');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+    </section>
+
+    <section>
+        <h2>
+            Margin of Victory
+        </h2>
+        <p> 
+            The Margin of Victory is calculated by (points scored-points allowed)/number of games played.
+            The higher the number the better. This shows that over the past 15 years, the Washington Commanders
+            have only had a positive margin of victory 5 times. In 2025 with Daniels as the starting quarterback,
+            the Margin of Victory is 5.5, the highest its been since 1976. 
+        </p>
+        <div class='tableauPlaceholder' id='viz1745816367645' style='position: relative'><noscript><a href='#'><img alt='Margin of Victory By Year 2010-2024 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommandersTeamStats&#47;MarginofVictory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CommandersTeamStats&#47;MarginofVictory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CommandersTeamStats&#47;MarginofVictory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1745816367645');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+        </script>
+    </section>
+
+
+    <section>
+        <h2>
+            Sources: 
+        </h2>
+        <a id = URL href="https://www.pro-football-reference.com/teams/was/2023.htm"
+        target="_blank"
+        style="font-size: 25px"
+        style="margin-bottom: 20px">
+            2023-2024 Season Stats
+        </a>
+        <p>
+
+        </p>
+        <a id = URL href="https://www.pro-football-reference.com/teams/was/2024.htm"
+        target="_blank"
+        style="font-size: 25px">
+            2024-2025 Season Stats
+        </a>
+        <p>
+
+        </p>
+        <a id = URL href="https://www.pro-football-reference.com/teams/was/career-passing.htm"
+        target="_blank"
+        style="font-size: 25px">
+            Commanders Career Passing Leaders
+        </a>
+        <a id = URL href="https://www.jt-sw.com/football/pro/teams.nsf/histories/redskins"
+        target="_blank"
+        style="font-size: 25px">
+            Commanders Record
+        </a>
+    </section>
+</body>
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #ffe9b7; 
+        color: black;
+        margin: 0;
+        padding: 0;
+    }
+
+    header {
+        background-color: #5A1414; 
+        color: #FFB612;
+        padding: 20px;
+        text-align: center;
+    }
+
+    h2 {
+        font-size: 30px;
+        color: #5a1414;
+        margin-top: 30px;
+        text-align: center
+    }
+
+    section {
+        margin: 20px;
+    }
+
+    p {
+        font-size: 25px;
+        margin-bottom: 20px;
+    }
+</style>
+</html>
